@@ -4,3 +4,10 @@ archive*
 nn_model*
 *.zip
 *.csv*
+*-ubyte*
+*.png
+*.PNG
+*.jpg
+*.jpeg
+*.JPG
+*.JPEG
