@@ -2,6 +2,8 @@ scratchmlenv
 .vscode
 archive*
 nn_model*
+*model.npz
+*bugs.txt
 *.zip
 *.csv*
 *-ubyte*
