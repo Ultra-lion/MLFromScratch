@@ -2,7 +2,7 @@ scratchmlenv
 .vscode
 archive*
 nn_model*
-*model.npz
+*model*.npz
 *bugs.txt
 *.zip
 *.csv*
