@@ -13,3 +13,6 @@ nn_model*
 *.jpeg
 *.JPG
 *.JPEG
+*.txt
+stock_market_dataset/*
+stock_market_dataset
