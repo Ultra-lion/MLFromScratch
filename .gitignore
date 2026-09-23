@@ -16,3 +16,4 @@ nn_model*
 *.txt
 stock_market_dataset/*
 stock_market_dataset
+jax_rnn_weights/*
